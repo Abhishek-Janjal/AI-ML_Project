@@ -6,3 +6,4 @@
 5. [Video Generation](Video_Generation/newsVideo.ipynb)
 6. [Quantum Machine Learning](QML/QSVM_Qiskit.ipynb)
 7. [nanoGPT](nanoGPT/train.py)
+8. [EEG ML](EEG_ML_classification/Paper_Music.ipynb)
