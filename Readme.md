@@ -1,5 +1,7 @@
 # Index
-1. [BasicRAG (Gemini)](RAG/RAG_using_Gemini.ipynb)
-2. [BasicRAG (OpenSource)](RAG/RAG_using_OS.ipynb)
-3. [Hand Gesture controller](ComputerVision/Hand_control_3D_Object)
-4. [Video Generation]()
+1. [Hand Gesture controller](Hand_control_3D_Object/handtracking.py)
+2. [Object Detection](Object_Detection/Facial_Emotion_Dataset.ipynb)
+3. [BasicRAG (Gemini)](RAG/RAG_using_Gemini.ipynb)
+4. [BasicRAG (OpenSource)](RAG/RAG_using_OS.ipynb)
+5. [Video Generation](Video_Generation/newsVideo.ipynb)
+6. [Quantum Machine Learning](QML/QSVM_Qiskit.ipynb)
