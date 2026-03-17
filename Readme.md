@@ -5,3 +5,4 @@
 4. [BasicRAG (OpenSource)](RAG/RAG_using_OS.ipynb)
 5. [Video Generation](Video_Generation/newsVideo.ipynb)
 6. [Quantum Machine Learning](QML/QSVM_Qiskit.ipynb)
+7. [nanoGPT](nanoGPT/train.py)
