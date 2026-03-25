@@ -1,7 +1,6 @@
 # Project Structure
 
 ```
-.
 ├── EEG_ML_classification
 │   ├── [Paper_Music.ipynb](EEG_ML_classification/Paper_Music.ipynb)        # EEG Music State Classification
 │   └── [Paper_rest.ipynb](EEG_ML_classification/Paper_rest.ipynb)         # EEG Rest State Classification
